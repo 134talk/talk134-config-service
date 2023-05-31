@@ -21,6 +21,7 @@ spring:
         encrypt:
           enabled: false
 
+
 jasypt:
   encryptor:
     bean: jasyptStringEncryptor
