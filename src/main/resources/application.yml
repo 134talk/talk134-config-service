@@ -5,7 +5,7 @@ spring:
   application:
     name: config-service
   kafka:
-    bootstrap-servers: ${KAFKA_CLUSTER01:43.201.135.148:9092},${KAFKA_CLUSTER02:43.200.40.62:9092},${KAFKA_CLUSTER03:43.201.243.40:9092}
+    bootstrap-servers: ${KAFKA_CLUSTER01:15.164.103.31:9092}
 
   cloud:
     bus:
