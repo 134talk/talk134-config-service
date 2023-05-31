@@ -16,7 +16,56 @@ spring:
         git:
           uri: git@github.com:134talk/backend_config.git
           default-label: main
-          private-key: ENC(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)
+          private-key: |
+            -----BEGIN OPENSSH PRIVATE KEY-----
+            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
+            -----END OPENSSH PRIVATE KEY-----
           ignore-local-ssh-settings: true
         encrypt:
           enabled: false
